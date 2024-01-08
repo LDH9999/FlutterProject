@@ -7,5 +7,4 @@ void main() {
   final name5 = '만두'; //final은 해당 변수의 값을 수정할 수 없게 만들어준다.
   late final String name6; // late는 final과 var의 앞에 사용할 수 있고 값이 없는 변수를 선언힐 때 사용한다. 
   const name7 = "새콤"; //const는 프로그램을 배포하기전에 컴파일러가 이미 알고 있어야 하는 값을 지정할 때 사용한다.
-    
 }
